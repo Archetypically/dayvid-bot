@@ -5,4 +5,6 @@ Discord boy written in python3.6+.
 
 Uses `asyncio` for Discord API WebSockets.
 
-Reference: https://tutorials.botsfloor.com/a-discord-bot-with-asyncio-359a2c99e256
+See [REFERENCES.md](https://github.com/Archetypically/dayvid-bot/blob/master/REFERENCES.md) for sources/references.
+
+Many additional thanks to all Davids.
